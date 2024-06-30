@@ -1,4 +1,3 @@
-import Image from "next/image";
 import PostList from '@/app/components/posts/PostList';
 
 export default function Home() {
